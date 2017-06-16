@@ -87,7 +87,7 @@ Timer.set(millisToWaitFirst, false, function() {
   Timer.set(millisToTestForBeeps, false, function() {
     print('Calling home.');
     if(ohoh)
-  		print('Smoke detected');
+  		print('Smoke detected')
     else
   		print('Battery low');
     callHome();
