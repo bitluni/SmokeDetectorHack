@@ -77,7 +77,6 @@ function callHome()
 			  error: callHome,
 			});
     }
-	if(ohoh)
 }
 
 //wait for one second for short single alarms to turn off
